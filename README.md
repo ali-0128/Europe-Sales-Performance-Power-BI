@@ -35,6 +35,6 @@ This dashboard goes beyond mere reporting, delivering specific, actionable insig
 
 ## Dashboard Preview
 
-![Dashboard Preview](Europe_Sales_Dashboard.png)
+![Dashboard Preview](Sale_Dashboard.png)
 
 
